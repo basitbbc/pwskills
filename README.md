@@ -1,2 +1,2 @@
 # pwskills
-Data Science Masters 2.0 (Assignments)
+Data Science Masters 2.0
